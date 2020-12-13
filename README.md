@@ -1,0 +1,14 @@
+# maverick-user 7.0 PS7317 1804 amz-p,release-keys
+- manufacturer: amazon
+- platform: mt8183
+- codename: maverick
+- flavor: maverick-user
+- release: 9
+- id: PS7317
+- incremental: 0019227151492
+- tags: amz-p,release-keys
+- fingerprint: Amazon/maverick/maverick:7.0/PS7317/1804N:user/amz-p,release-keys
+- is_ab: false
+- brand: Amazon
+- branch: maverick-user-7.0-PS7317-1804-amz-p,release-keys
+- repo: amazon_maverick_dump
